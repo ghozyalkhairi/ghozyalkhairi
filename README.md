@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghozyalkhairi
-- 👀 I’m interested in Web and Mobile Development
+- 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning React.js, Vue.js, and TypeScript
 
 <!---
