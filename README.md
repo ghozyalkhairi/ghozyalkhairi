@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghozyalkhairi
 - 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently learning React.js, Vue.js, and TypeScript
+- 🌱 I’m currently learning React.js, React Native, and TypeScript
 
 <!---
 ghozyalkhairi/ghozyalkhairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
