@@ -5,7 +5,7 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghozyalkhairi&theme=tokyonight)
 ---
-<img src="https://komarev.com/ghpvc/?username=ghozyalkhairi&style=flat-square&color=blue" alt=""/>
+# <img src="https://komarev.com/ghpvc/?username=ghozyalkhairi&style=flat-square&color=blue" alt=""/>
 
 <!---
 ghozyalkhairi/ghozyalkhairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
