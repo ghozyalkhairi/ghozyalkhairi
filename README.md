@@ -1,7 +1,7 @@
 ### Hi, I'm Ghozy 👋 
 - 👋 Hi, I’m @ghozyalkhairi
 - 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently learning React.js, React Native, TypeScript, and GraphQL
+- 🌱 I’m always learning
 ---
 
 <p align="center">
